@@ -1,7 +1,7 @@
 
 # Github Users
 
-Get useful information about different github, displayed in various beautifull charts provided by [Fusion Charts](https://www.fusioncharts.com/).
+Get useful information about different github users, displayed in various beautifull charts provided by [Fusion Charts](https://www.fusioncharts.com/).
 
 
 # Links
